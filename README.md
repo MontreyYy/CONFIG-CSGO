@@ -12,7 +12,7 @@
 
 <b>Multicore-Rendering:</b> Enable (gives you more FPS)<br>
 
-<b>Multisampling Anti-Aliasing Mode: 4MXAA (gives a small smothing on endges but lets you still see people behind headshot boxes as a square. This is because of to small details (u only can see 1 or 2 pixels of a model) get pixeled out.)<br>
+<b>Multisampling Anti-Aliasing Mode:</b> 4MXAA (gives a small smothing on endges but lets you still see people behind headshot boxes as a square. This is because of to small details (u only can see 1 or 2 pixels of a model) get pixeled out.)<br>
 
 <b>FXAA Anti-Aliasing:</b> Disable (FXAA is searching for sharp edges like cables, wall corners or simular things and smoothes them out by using a blure matrix. The blur is just 0.1% but strong enough to make it even harder to recognize people moving or behind headshot boxes)<br>
 
