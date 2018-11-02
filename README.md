@@ -1,17 +1,14 @@
-# CONFIG-CSGO
-This is my official CS:GO config
-
 ________________________________________
-|                                      |
-|                                      |
-|                                      |
-|             CS:GO LEGENDS            |
-|          UPDATED ON 2.11.2018        |
-|                                      |
+|                                      |
+|                                      |
+|                                      |
+|             CS:GO LEGENDS            |
+|          UPDATED ON 2.11.2018        |
+|                                      |
 |         ---------------------        |
-|            AUTO EXEC LOADED          |
-|                                      |
-|                                      |
+|            AUTO EXEC LOADED          |
+|                                      |
+|                                      |
 |--------------------------------------|
 
 Resolution: 800x600 streched (lets you see heads better and gives you an advantage of reacting faster)
@@ -41,9 +38,9 @@ Motion Blur: Disable (useless smothing on movement)
 NVIDIA Settings
 
 -> Desktop Colorsettings
-   -> Use Nvidia-Settings
-      -> Brightness: 50%
-      -> Contrast: 60%
-      -> Gamma: 0.8
+   -> Use Nvidia-Settings
+      -> Brightness: 50%
+      -> Contrast: 60%
+      -> Gamma: 0.8
 
 -> Vibrance: 100%
