@@ -1,16 +1,3 @@
-________________________________________<br>
-|                                      |<br>
-|                                      |<br>
-|                                      |<br>
-|             CS:GO LEGENDS            |<br>
-|          UPDATED ON 2.11.2018        |<br>
-|                                      |<br>
-|         ---------------------        |<br>
-|            AUTO EXEC LOADED          |<br>
-|                                      |<br>
-|                                      |<br>
-|--------------------------------------|<br>
-
 Resolution: 800x600 streched (lets you see heads better and gives you an advantage of reacting faster)<br>
 
 Global Shadow Quality: high (lets you see shadows heavly better cause shadow edges get sharpened, so you can react faster to it)<br>
