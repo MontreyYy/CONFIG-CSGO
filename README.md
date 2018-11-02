@@ -1,3 +1,5 @@
+<img src="https://www2.pic-upload.de/img/36205954/preview.jpg">
+
 <b>Resolution:</b> 800x600 streched (lets you see heads better and gives you an advantage of reacting faster)<br>
 
 <b>Global Shadow Quality:</b> high (lets you see shadows heavly better cause shadow edges get sharpened, so you can react faster to it)<br>
